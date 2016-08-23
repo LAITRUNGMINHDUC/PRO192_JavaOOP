@@ -1,0 +1,2 @@
+java Assignment1.MainApp
+pause
